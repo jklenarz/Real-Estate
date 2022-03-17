@@ -11,4 +11,5 @@ Table of contents:
   <li> Clean_Data_Dakota_County -- notebook to process and clean original data set and produce cleaned data set</li>
   <li> EDA_Data_Viz -- notebook to visualize relationships with scatterplots and boxplots</li>
   <li> Clustering_Analysis -- notebook to investigate possible clusters in data set</li>
+  <li> Redfin Multiple Regression --  notebook to fit a multiple regression to the data set</li>
  </ol>
