@@ -12,4 +12,5 @@ Table of contents:
   <li> EDA_Data_Viz -- notebook to visualize relationships with scatterplots and boxplots</li>
   <li> Clustering_Analysis -- notebook to investigate possible clusters in data set</li>
   <li> Redfin Multiple Regression Analysis --  notebook to fit a multiple regression to the data set</li>
+  <li> Report - Multiple Regression Analysis of Real Estate Listings on Redfin</li> 
  </ol>
